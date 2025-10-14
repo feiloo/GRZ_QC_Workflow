@@ -3,6 +3,10 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [UNRELEASED]
+
+- Add `micromamba` profile to support `micromamba` as a single-binary conda replacement [#156](https://github.com/BfArM-MVH/GRZ_QC_Workflow/pull/156)
+
 ## v1.2.0 - [09.10.2025]
 
 - Ignore non-QCed library types in submission metadata (e.g. RNA) [#149](https://github.com/BfArM-MVH/GRZ_QC_Workflow/pull/149)
