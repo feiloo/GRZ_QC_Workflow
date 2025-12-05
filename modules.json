@@ -58,7 +58,7 @@
                     },
                     "multiqc": {
                         "branch": "master",
-                        "git_sha": "0b2435805036a16dcdcf21533632d956b8273ac4",
+                        "git_sha": "ca6da11b05740de461b1e2714037345c0f856201",
                         "installed_by": [
                             "modules"
                         ]

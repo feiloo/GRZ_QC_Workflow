@@ -10,8 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add `micromamba` profile to support `micromamba` as a single-binary conda replacement [#156](https://github.com/BfArM-MVH/GRZ_QC_Workflow/pull/156)
 - Disable filters in fastp and fastplong, and report both deduplicated and non-deduplicated reads [#161](https://github.com/BfArM-MVH/GRZ_QC_Workflow/pull/165)
 - Fix conda issues:
-  - multiqc is updated to 1.32 as conda was broken in the old version
-  - pin python version to 3.12 in multiqc env
+  - Sync multiqc module with nf-core upstream (already at version 1.32)
 
 ## v1.2.0 - [09.10.2025]
 
